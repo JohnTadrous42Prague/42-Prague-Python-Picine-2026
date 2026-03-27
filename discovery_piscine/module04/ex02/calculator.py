@@ -1,0 +1,7 @@
+FirstNum=float(input("Give me the first number: "))
+SecondNum=float(input("Give me the second number: "))
+print("Thank you!")
+print(FirstNum , " + " , SecondNum , " = " , (FirstNum+SecondNum))
+print(FirstNum , " - " , SecondNum , " = " , (FirstNum-SecondNum))
+print(FirstNum , " X " , SecondNum , " = " , (FirstNum*SecondNum))
+print(FirstNum , " / " , SecondNum , " = " , (FirstNum/SecondNum))
